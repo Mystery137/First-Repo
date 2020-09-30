@@ -2,5 +2,6 @@
 int main()
 {
 cout<<"Hello Ankit";
-cout <<"I wants to dance";
+cout <<"ankit said:I wants to dance and swim";
+
 }
